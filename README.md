@@ -1,2 +1,1 @@
-# CruiseReservation
-Cruise reservation program
+This was my second project after having learned the basics of Java. It was a prjocet for a programming class. I was asked to create a front-end GUI program for a cruiseline. The program provides a interface for the user to book a cabin and select activities to participate in along the journey. The program obtains user input and based on that, calculates a final price. All of the information is displayed in the console. 
